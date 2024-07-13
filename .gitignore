@@ -1,3 +1,7 @@
 *__pycache__/
 .DS_Store
 audioset/vggish_model.ckpt
+audioset/vggish_pca_params.npz
+
+*.wav
+*.tfrecord
